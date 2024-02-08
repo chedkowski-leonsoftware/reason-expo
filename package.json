@@ -1,5 +1,6 @@
 {
   "name": "reason-expo-monorepo",
+  "version": "1.0.1",
   "private": true,
   "main": "index.js",
   "repository": "https://github.com/FiberJW/reason-expo.git",
